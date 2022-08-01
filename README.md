@@ -15,3 +15,6 @@ For this function, no importing of libraries is required.
 3. checkappend() is for checking if the number size has not exceeded more than 10,000,000. Elsewise, it will be treated as an error and terminate the execution of the code.
 
 4. calculation() is the function where all the functions are assembled to make the calculation, and output is obtained.
+
+## task that could not be implemented
+The termination of the program on pressing Esc or 0 was not possible. I tried installing and importing the keyboard library for implementation. But the results obtained were not satisfactory. And so, I decided to remove it from the final draft.
